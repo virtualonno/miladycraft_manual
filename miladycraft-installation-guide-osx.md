@@ -1,4 +1,4 @@
-# Miladycraft Installation Guide: Windows
+# Miladycraft Installation Guide: OSX
 
 **MILADYCRAFT NEW USER INSTALL GUIDE FOR WINDOWS:**
 
@@ -11,17 +11,17 @@ _**“It’s so simple even an e-girl can do it!”**_
 
 ![](<.gitbook/assets/1 (1).png>)
 
-**3:** The file you’re downloading is a ZIP file. You need to extract the contents. If you don’t have a ZIP extractor on your computer you can download it from [https://www.7-zip.org/](https://www.7-zip.org/)\
-Right click the file and select **Extract Here.**\
-![](<.gitbook/assets/2 (1).png>)**or**![](<.gitbook/assets/3 (1).png>)
+**3:** Find the file in your Downloads folder and double-click it to un-zip. Wait a few minutes and a folder will appear called **Miladycraft 1.5**.
 
-**4:** Once the files are finished extracting, open the one that says **Windows.**
+![](.gitbook/assets/image.png)![](<.gitbook/assets/image (1).png>)
 
-![](<.gitbook/assets/4 (1).png>)
+**4:** Open **Miladycraft 1.5 Installer** then open the folder that says **Mac.**
 
-**5:** Right click the file that says **Miladycraft\_Installer** and select _Run as administrator._ If a prompt comes up asking if you want to allow this program to make changes, just select Yes and give it permission.
+![](<.gitbook/assets/Screenshot 2024-06-25 at 9.07.41 PM.png>)
 
-![](<.gitbook/assets/5 (1).png>)
+**5:** Right click the file that says **Miladycraft Installer.pkg** and select _Open._ If a prompt comes up asking if you're sure about opening the file, click _Open_.
+
+<figure><img src=".gitbook/assets/Screenshot 2024-06-25 at 9.09.19 PM.png" alt=""><figcaption></figcaption></figure>
 
 **6:** Click _Next_ on the Setup Wizard!
 
@@ -74,7 +74,7 @@ _(If you have a username someone else has taken, the server will not allow you i
 
 **17:** The loading bars are going to disappear after they’re finished. _Don’t touch anything, just wait._ The game will launch, but it may take anywhere from 20 seconds to a couple minutes. Don’t worry, it’s only this slow for the first time you install. After this, it’ll load much quicker each time.
 
-**18:** By the way, you should now have a _Miladycraft_ program installed, which you can find in your start menu. This is where you open the launcher from any time you want to start up the game.
+**18:** By the way, you should now have a _Miladycraft_ program installed, which you can find with your command bar. Just hit cmd + space and search for Miladycraft.
 
 ![](.gitbook/assets/20.png)
 
