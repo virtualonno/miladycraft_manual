@@ -4,34 +4,39 @@
 
 Miladycraft is an extensively curated and polished Minecraft modpack which has been in development since 2021, serving as a proof of concept minimum viable metaverse experience for the Milady community. Even Minecraft veterans may need some help navigating some of the new features Miladycraft offers. This guide is a must-read so you can maximize your Miladycraft experience:
 
-_<mark style="color:yellow;">**At the very least, make sure you read the**</mark>** **<mark style="background-color:red;">**VOICECHAT, SHADERS, SKIN, & PROPERTY PROTECTION**</mark>** **<mark style="color:yellow;">**tips to get the most out of Miladycraft’s social features!!!**</mark>_
+_<mark style="color:yellow;">**At the very least, make sure you read the**</mark>** **<mark style="color:red;">**VOICECHAT, SHADERS, SKIN, & PROPERTY PROTECTION**</mark>** **<mark style="color:yellow;">**tips to get the most out of Miladycraft’s social features!!!**</mark>_
 
 **Password:** Miladycraft utilizes offline accounts, which work through a launcher called PollyMC. When playing Miladycraft for the first time, it’ll ask you to input a password. This is the password creation process, _remember what you put in._ You won’t have to put it in again next time you play, but it’ll be important if you ever change devices or versions.
 
 **Keybinds:** Just in case you didn’t know, you can remap any of the keys for any function in the game. Press _Escape_ and go to _Options… > Controls > Key Binds_ to open the keybinds menu. We recommend sticking with the configuration we’ve set for you until you get more familiar with the game mods, but you can change things here any time and use the search bar at the bottom to find keybinds quickly.
 
-&#x20;<mark style="background-color:red;">**Voicechat:**</mark> Miladycraft features proximity voicechat. When you start the game press _J_ to go through the setup process and enable your mic. We recommend always on. Once you’ve set your chosen mic and speaker, you can open the voicechat menu by pressing , (_comma key)_ where you can enable/disable voicechat or change mic settings any time, while the . (_period key)_ can now be used to automatically enable and disable. If you choose _push-to-talk_, the default key is _V,_ just hold it down while you talk into the mic.
+<mark style="color:red;">**Voicechat:**</mark> Miladycraft features proximity voicechat. When you start the game press _J_ to go through the setup process and enable your mic. We recommend always on. Once you’ve set your chosen mic and speaker, you can open the voicechat menu by pressing , (_comma key)_ where you can enable/disable voicechat or change mic settings any time, while the . (_period key)_ can now be used to automatically enable and disable. If you choose _push-to-talk_, the default key is _V,_ just hold it down while you talk into the mic.
 
-&#x20;<mark style="background-color:red;">**Shaders:**</mark> If you’re not playing with shaders, you’re not playing true Miladycraft. Press the _O_ key to open the shader menu. Select which one you want and click _Apply > Done._ Press _I_ to quick toggle shaders on/off and press _P_ to reload them quickly if needed. You can add other shaders to your preference but we recommend _Complementary Reimagined + Euphoria Patches_ as the default.
+<mark style="color:red;">**Shaders:**</mark> If you’re not playing with shaders, you’re not playing true Miladycraft. Press the _O_ key to open the shader menu. Select which one you want and click _Apply > Done._ Press _I_ to quick toggle shaders on/off and press _P_ to reload them quickly if needed. You can add other shaders to your preference but we recommend _Complementary Reimagined + Euphoria Patches_ as the default.
 
 **Messages:** To type and send messages in game, press _T_ and hit _Enter_ after you’re done typing. This is also how to do commands. For example, sending the text _/spawn_ takes you back to Jade McDonalds where everyone first spawns in.
 
-<mark style="color:red;">**Skin:**</mark> It’s recommended to pick a skin before you start playing so you can uniquely express yourself. You can find skins on websites like [https://www.minecraftskins.com/](https://www.minecraftskins.com/) or [https://namemc.com/](https://namemc.com/). The name you chose when making your offline account will use the skin of the corresponding Mojang/Microsoft account. To change your skin, use the _<mark style="color:yellow;">/setskin</mark>_ and _<mark style="color:yellow;">/setmodel</mark>_ commands as follows:
+<mark style="color:red;">**Skin:**</mark> It’s recommended to pick a skin before you start playing so you can uniquely express yourself. You can find or upload skins on websites like [https://mineskin.org/](https://mineskin.org/),  [https://www.minecraftskins.com/](https://www.minecraftskins.com/) or [https://namemc.com/](https://namemc.com/). The name you chose when making your Miladycraft account will use the skin of the corresponding Mojang/Microsoft account name by default. To change your skin, use the _<mark style="color:yellow;">/skin</mark>_ command as follows:
 
-\
-_<mark style="color:yellow;">/setskin \_\_\_\_\_</mark>_
+Example:\
+[_<mark style="color:yellow;">/skin set</mark>_](https://minesk.in/e27fc515b66349d2bd83ef1b8078907b) _<mark style="color:yellow;">web classic "</mark>_[_<mark style="color:yellow;">https://minesk.in/e27fc515b66349d2bd83ef1b8078907b</mark>_](https://minesk.in/e27fc515b66349d2bd83ef1b8078907b)_<mark style="color:yellow;">"</mark>_\
 
-The next word in the _<mark style="color:yellow;">/setskin</mark>_ should be a direct link to the image file of the skin you want.
 
-_<mark style="color:yellow;">/setmodel default</mark>_
+* The first option _<mark style="color:yellow;">set</mark>_ defines indicates that you're setting a skin. Other options include _<mark style="color:yellow;">clear</mark>_ which resets your skin to default.
+* The second option _<mark style="color:yellow;">web</mark>_ indicates that you're applying your skin from a <mark style="color:red;">**direct link**</mark>**.** Other options include _<mark style="color:yellow;">mojang</mark>_ which lets you select a skin directly from your or someone's Mojang/Microsoft account; and _<mark style="color:yellow;">random</mark>_, which should be self-explanatory.
+* The third option _<mark style="color:yellow;">classic</mark>_ indicates that this skin should use a default/Steve body. The other option is _<mark style="color:yellow;">slim</mark>_ which uses a slim/Alex body, which has thinner arms than the default body. If your chosen skin appears with discolorations on the arms or shoulders, then it is likely you have a default body skin that you tried to put on a slim body or vice versa , as the textures are slightly different between the two.
+* The final option takes a <mark style="color:red;">**direct link**</mark> to the skin that you wish to use, and should be placed in between <mark style="color:yellow;">**"**</mark><mark style="color:red;">**double quotes**</mark><mark style="color:yellow;">**"**</mark> like these. You will know it is a direct link when it directly displays the .PNG file of your skin in browser, or prompts to download said file (or if the website tells you to.) \
+  \-> You can also upload your skin directly in the Milady Village channel meant for it, and copy the link!
 
-The _<mark style="color:yellow;">/setmodel</mark>_ command can be used with two phrases, _default_ or _slim_. It should be self-explanatory, but this command will set your skin to a default body.
+Other examples:\
+[_<mark style="color:yellow;">/skin set</mark>_](https://minesk.in/e27fc515b66349d2bd83ef1b8078907b) _<mark style="color:yellow;">web slim "</mark>_[_<mark style="color:yellow;">https://s.namemc.com/i/0077769afa9a56f3.png</mark>_](https://s.namemc.com/i/0077769afa9a56f3.png)_<mark style="color:yellow;">"</mark>_\
+_<mark style="color:yellow;">/skin set mojang popbob</mark>_\
+_<mark style="color:yellow;">/skin set random</mark>_\
+_<mark style="color:yellow;">/skin clear</mark>_
 
-_<mark style="color:yellow;">/setmodel slim</mark>_
 
-This command will set your skin to a slim body, which has thinner arms than the default body. If your chosen skin appears with discolorations on the arms, then it is likely you have a default-body skin that you tried to put on a slim body, as the textures are slightly different between the two.
 
-Once you’ve applied the skin by typing the command and hitting _Enter_, be patient and wait. It may take a minute or two for the skin to apply.
+Once you’ve applied the skin by typing the command and hitting _Enter_, you will see that your skin is being processed. If successful, you will be requested to relog so that your skin may appear.
 
 Any online link to an image file can be used as a skin, even links to images sent as Discord messages! Make sure the image looks something like this to apply the skin correctly:
 
